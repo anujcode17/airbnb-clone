@@ -1,0 +1,92 @@
+# Dependency directories
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Ignore .env file containing sensitive information
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# User-specific files
+npm-debug.log
+yarn-error.log
+
+# Coverage directory
+coverage/
+
+# Compiled binary addons (if any)
+build/Release
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variables file
+.env
+
+# Next.js build output
+.next/
+
+# Nuxt.js build / generate output
+.nuxt/
+
+# Vuepress build output
+.vuepress/dist/
+
+# Serverless directories
+.serverless/
+
+# Svelte.js
+__sapper__/
+
+# Rollup.js cache
+.rollup-cache/
+
+# Jest testing framework
+coverage/
+
+# Firebase
+firebase/
+
+# FuseBox
+.fusebox/
+
+# Parcel
+.cache/
+dist/
+
+# Yarn
+.yarn/cache/
+.yarn/unplugged/
+.yarn/build-state.yml
+.yarn/install-state.gz
+.pnp.*
+
+# Yarn 2
+.yarn2/
+yarn-error.log
+yarn.lock
+
+# Pnpm
+.pnpm/
+pnpm-debug.log
+pnpm-lock.yaml
